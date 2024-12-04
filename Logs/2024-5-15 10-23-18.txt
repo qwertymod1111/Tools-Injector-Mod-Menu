@@ -1,0 +1,45 @@
+[Success] {10:22:36 AM} Loaded: coimobile.zip
+[Success] {10:22:36 AM} Loaded: Default.zip
+[Success] {10:22:36 AM} Loaded: heyhey.zip
+[Success] {10:22:36 AM} Loaded: modcombo.zip
+[Success] {10:22:36 AM} Loaded: techbigs.zip
+[Success] {10:22:36 AM} Loaded: apktool_2.5.0.jar
+[Success] {10:23:03 AM} Added Function: 12
+[Success] {10:23:07 AM} Set Apk Target: C:\Users\Admin\Desktop\Moto-Wheelie-3D-v0.25-MOD-apkgara signed.apk
+[Success] {10:23:08 AM} Dump successful
+[Success] {10:23:09 AM} Dump successful
+[Decompile Apk] {10:23:09 AM} I: Using Apktool 2.5.0 on ApkTarget.apk
+[Decompile Apk] {10:23:09 AM} I: Loading resource table...
+[Decompile Apk] {10:23:09 AM} I: Decoding AndroidManifest.xml with resources...
+[Decompile Apk] {10:23:09 AM} I: Loading resource table from file: C:\Users\Admin\AppData\Local\apktool\framework\1.apk
+[Decompile Apk] {10:23:10 AM} I: Regular manifest package...
+[Decompile Apk] {10:23:10 AM} I: Decoding file-resources...
+[Decompile Apk] {10:23:11 AM} I: Decoding values */* XMLs...
+[Decompile Apk] {10:23:11 AM} I: Baksmaling classes.dex...
+[Decompile Apk] {10:23:14 AM} I: Copying assets and libs...
+[Decompile Apk] {10:23:14 AM} I: Copying unknown files...
+[Decompile Apk] {10:23:14 AM} I: Copying original files...
+[Success] {10:23:14 AM} Decompile successful
+[Success] {10:23:15 AM} Extract modcombo.zip
+To => C:\Users\Admin\AppData\Local\Temp\TFiveMenu
+[Success] {10:23:15 AM} Extract modcombo.zip
+To => C:\Users\Admin\AppData\Local\Temp\TFiveMenu
+[Success] {10:23:15 AM} Replaced MainActivity.smali
+[Success] {10:23:15 AM} Replaced Android.mk
+[Success] {10:23:15 AM} Replaced Application.mk
+[Success] {10:23:15 AM} Replaced Menu.h (Credit)
+[Success] {10:23:15 AM} Replaced AndroidManifest.xml
+[Success] {10:23:15 AM} Replaced OnCreate
+[Success] {10:23:15 AM} Replaced Main.cpp
+[Success] {10:23:15 AM} Move C:\Users\Admin\AppData\Local\Temp\TFiveMenu\com
+To => C:\Users\Admin\Desktop\Tool\Tools Injector Mod Menu\Output\hekkia\\smali\com
+[Error:033] {10:23:16 AM} D:/NDK/android-ndk-r26c/build/../build/core/build-shared-library.mk:23: *** Android NDK: Please correct error. Aborting    .  Stop.
+[Compile Menu] {10:23:16 AM} Android NDK: APP_PLATFORM not set. Defaulting to minimum supported version android-21.    
+[Compile Menu] {10:23:16 AM} Android NDK: LOCAL_MODULE definition in C:/Users/Admin/AppData/Local/Temp/TFiveMenu/jni/Android.mk must not contain space    
+[Logs] {10:23:16 AM} Log saved successfully. C:\Users\Admin\Desktop\Tool\Tools Injector Mod Menu\Logs\2024-5-15 10-23-16.txt
+[Error:030] {10:23:18 AM} Failed to Compile
+[Logs] {10:23:18 AM} Log saved successfully. C:\Users\Admin\Desktop\Tool\Tools Injector Mod Menu\Logs\2024-5-15 10-23-18.txt
+[Success] {10:23:18 AM} Move C:\Users\Admin\Desktop\Tool\Tools Injector Mod Menu\Output\hekkia\smali\com
+To => C:\Users\Admin\AppData\Local\Temp\TFiveMenu\Decompile\smali_classes2\com
+[Error:022] {10:23:18 AM} Cannot Move C:\Users\Admin\Desktop\Tool\Tools Injector Mod Menu\Output\hekkia\lib\armeabi-v7a
+To => C:\Users\Admin\AppData\Local\Temp\TFiveMenu\Decompile\lib\armeabi-v7a

@@ -1,0 +1,10 @@
+[Success] {06:07:36 AM} Loaded: Default.zip
+[Success] {06:07:36 AM} Loaded: heyhey.zip
+[Success] {06:07:36 AM} Loaded: coimobile.zip
+[Success] {06:07:36 AM} Loaded: modcombo.zip
+[Success] {06:07:36 AM} Loaded: techbigs.zip
+[Success] {06:07:36 AM} Loaded: apktool_2.5.0.jar
+[Success] {06:11:59 AM} Saved Settings
+[Success] {06:12:09 AM} Saved Settings
+[Success] {06:12:28 AM} Saved Settings
+[Error:035] {06:29:11 AM} Ndk path must without any special character
